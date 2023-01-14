@@ -10,6 +10,7 @@ C:\Users\Laureano\Documents\GitHub\ProyectoIntegrador_LaureanoFarias\LaureanoFar
 C:\Users\Laureano\Documents\GitHub\ProyectoIntegrador_LaureanoFarias\LaureanoFariasBackEnd\src\main\java\com\portafolio\laureano\farias\Repository\RExperiencia.java
 C:\Users\Laureano\Documents\GitHub\ProyectoIntegrador_LaureanoFarias\LaureanoFariasBackEnd\src\main\java\com\portafolio\laureano\farias\Security\jwt\JwtEntryPoint.java
 C:\Users\Laureano\Documents\GitHub\ProyectoIntegrador_LaureanoFarias\LaureanoFariasBackEnd\src\main\java\com\portafolio\laureano\farias\Security\Service\UsuarioService.java
+C:\Users\Laureano\Documents\GitHub\ProyectoIntegrador_LaureanoFarias\LaureanoFariasBackEnd\src\main\java\Interface\IPersonaService.java
 C:\Users\Laureano\Documents\GitHub\ProyectoIntegrador_LaureanoFarias\LaureanoFariasBackEnd\src\main\java\com\portafolio\laureano\farias\Security\Dto\JwtDto.java
 C:\Users\Laureano\Documents\GitHub\ProyectoIntegrador_LaureanoFarias\LaureanoFariasBackEnd\src\main\java\com\portafolio\laureano\farias\Security\Entity\UsuarioPrincipal.java
 C:\Users\Laureano\Documents\GitHub\ProyectoIntegrador_LaureanoFarias\LaureanoFariasBackEnd\src\main\java\com\portafolio\laureano\farias\Entity\Educacion.java

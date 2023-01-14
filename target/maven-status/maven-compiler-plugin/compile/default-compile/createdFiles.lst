@@ -1,3 +1,4 @@
+Interface\IPersonaService.class
 com\portafolio\laureano\farias\Service\ImpPersonaService.class
 com\portafolio\laureano\farias\Security\Repository\iUsuarioRepository.class
 com\portafolio\laureano\farias\Service\SExperiencia.class
