@@ -1,10 +1,10 @@
-Interface\IPersonaService.class
 com\portafolio\laureano\farias\Service\ImpPersonaService.class
 com\portafolio\laureano\farias\Security\Repository\iUsuarioRepository.class
 com\portafolio\laureano\farias\Service\SExperiencia.class
 com\portafolio\laureano\farias\Entity\Experiencia.class
 com\portafolio\laureano\farias\Repository\REducacion.class
 com\portafolio\laureano\farias\Security\jwt\JwtProvider.class
+com\portafolio\laureano\farias\Interface\IPersonaService.class
 com\portafolio\laureano\farias\Security\Dto\NuevoUsuario.class
 com\portafolio\laureano\farias\Service\Shys.class
 com\portafolio\laureano\farias\Repository\RExperiencia.class

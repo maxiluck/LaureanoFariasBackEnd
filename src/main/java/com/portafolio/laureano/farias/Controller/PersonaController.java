@@ -1,7 +1,8 @@
 package com.portafolio.laureano.farias.Controller;
 
-import Interface.IPersonaService;
+
 import com.portafolio.laureano.farias.Entity.Persona;
+import com.portafolio.laureano.farias.Interface.IPersonaService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;

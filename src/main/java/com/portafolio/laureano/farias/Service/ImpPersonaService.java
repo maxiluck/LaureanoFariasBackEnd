@@ -1,7 +1,7 @@
 package com.portafolio.laureano.farias.Service;
 
-import Interface.IPersonaService;
 import com.portafolio.laureano.farias.Entity.Persona;
+import com.portafolio.laureano.farias.Interface.IPersonaService;
 import com.portafolio.laureano.farias.Repository.IPersonaRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

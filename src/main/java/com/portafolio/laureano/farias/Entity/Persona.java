@@ -20,26 +20,17 @@ public class Persona {
     
     @NotNull
     @Size(min = 1, max = 50, message = "no cumple con la longitud")
-   
     private String apellido;
     @NotNull
-    private String descripcion;
-   
-    
     private String img;
 
     public Persona() {
     }
 
-    public Persona(String nombre, String apellido, String descripcion, String img) {
+    public Persona(String nombre, String apellido,String img) {
         this.nombre = nombre;
         this.apellido = apellido;
-        this.descripcion = descripcion;
         this.img = img;
-    }
-
-    public Persona(String nombre, String descripcion) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 
     public int getId() {
@@ -64,14 +55,6 @@ public class Persona {
 
     public void setApellido(String apellido) {
         this.apellido = apellido;
-    }
-
-    public String getDescripcion() {
-        return descripcion;
-    }
-
-    public void setDescripcion(String descripcion) {
-        this.descripcion = descripcion;
     }
 
     public String getImg() {
